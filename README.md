@@ -1,7 +1,7 @@
 ## EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
 ### DATE: 20-04-2026
-### NAME: HARISH S
-### REG NO: 212224040105
+### NAME: ADHARSH VIDYADH U
+### REG NO: 212224230007
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
